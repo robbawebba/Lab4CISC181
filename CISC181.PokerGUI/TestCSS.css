@@ -1,0 +1,28 @@
+VBox {
+
+	-fx-border-style: solid;
+	-fx-border-width: 5px;
+
+}
+
+HBox {
+
+	-fx-border-style: solid;
+	-fx-border-width: 5px;
+
+}
+
+BorderPane {
+
+	-fx-border-style: solid;
+	-fx-border-width: 5px;
+
+}
+
+ImageView {
+
+	-fx-border-style: solid;
+	-fx-border-width: 5px;
+
+}
+
